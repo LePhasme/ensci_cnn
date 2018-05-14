@@ -18,6 +18,10 @@ Exécuter l'apprentissage via la commande **`python train.py 1`** (pour l'index 
 
 Le processus peut prendre plusieurs heures : **il ne faut pas l'interrompre !**
 
+Une fois que l'apprentissage est terminé sur une base d'images donnée, il n'est plus nécessaire de le refaire.
+
+> Note : il existe déjà une base d'apprentissage `1` capable de classifier une image entre *chat* (catégorie a) et *chien* (catégorie b). 
+
 ## Évaluation d'une nouvelle image
 
 Poser les nouvelles images à évaluer dans le dossier `testset`.
